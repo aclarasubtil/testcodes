@@ -1,9 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+// Os métodos estão no arquivo "Funcoes.java"
 package br.com.testcodes;
 
 /**
@@ -12,7 +7,7 @@ package br.com.testcodes;
  */
 public class Programa {
     public static void main (String []args) {
-        Funcoes func=new Funcoes ();
+        Funcoes func=new Funcoes (); //
         
         // Teste Exercício 1
         double resultado_valor_prestacao = func.valor_pretacao(15000);
